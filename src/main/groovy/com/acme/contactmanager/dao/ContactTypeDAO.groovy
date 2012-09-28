@@ -1,5 +1,7 @@
 package com.acme.contactmanager.dao;
 
+// test
+
 import java.util.List;
 
 import com.acme.contactmanager.domain.ContactType;
